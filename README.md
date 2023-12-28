@@ -36,4 +36,5 @@ Silkscreen: Black (personal preference)
 
 ![Render_Main Camera 10_FullQuality_081](https://github.com/shadowfoil/quill/assets/75970270/1d189bd7-fd30-4ca7-bb8b-b35e9fdfe4a4)
 
+Full Plate Style Case Exploded View
 ![Render_Main Camera 10_FullQuality_085](https://github.com/shadowfoil/quill/assets/75970270/74ff2106-59c6-4f3f-b584-ba2c55b64388)
