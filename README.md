@@ -19,6 +19,11 @@ Soldermask: White (personal preference)
 Silkscreen: Black (personal preference)
 
 ### PCB 
+
+![image](https://github.com/shadowfoil/quill/assets/75970270/0d72bfeb-424c-4b0b-ab94-042c4c83d3cc)
+
+![image](https://github.com/shadowfoil/quill/assets/75970270/17a6b267-2408-421f-b60d-7c49aaa4a5fa)
+
 ![image](https://github.com/shadowfoil/quill/assets/75970270/0aaebe1c-f367-4977-8b71-991a67aeb960)
 
 ### Schematic
