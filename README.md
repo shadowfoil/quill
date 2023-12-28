@@ -13,10 +13,10 @@ All PCB/Schematic files are available.
 Enjoy!
 
 ### Recommended PCB Specs
-Thickness: 1.6mm PCB
-Finish: ENIG (HASL works fine as well)
-Soldermask: White (personal preference)
-Silkscreen: Black (personal preference)
+ - Thickness: 1.6mm PCB
+ - Finish: ENIG (HASL works fine as well)
+ - Soldermask: White (personal preference)
+ - Silkscreen: Black (personal preference)
 
 ### PCB 
 
