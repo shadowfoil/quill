@@ -1,0 +1,33 @@
+{
+    "keyboard_name": "quill",
+    "manufacturer": "shadowfoil ",
+    "url": "",
+    "maintainer": "shadowfoil",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x69FE",
+        "vid": "0xFEED"
+    }, 
+    "ws2812": {
+        "pin": "GP16",
+        "driver": "vendor"
+    },
+    "rgblight": {
+        "led_count": 1,
+        "sleep": true,
+        "layers": {
+            "enabled": true
+        }
+    },
+    "layouts": {
+        "LAYOUT_3x2": {
+            "layout": [
+                {"label":  "C",  "x": 2, "y": 1},
+                {"label":  "B",  "x": 1, "y": 1},
+                {"label":  "A",  "x": 0, "y": 1},
+                {"label":  "2",  "x": 2, "y": 0},
+                {"label":  "1",  "x": 0, "y": 0}
+           ]
+        }
+    }
+}

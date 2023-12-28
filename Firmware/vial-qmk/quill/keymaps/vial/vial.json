@@ -1,0 +1,48 @@
+{
+    "lighting": "qmk_rgblight", 
+    "ws2812": {
+      "pin": "GP16",
+      "driver": "vendor"
+    },
+    "rgblight": {
+        "led_count": 1,
+        "layers": {
+            "enabled": true
+        }
+    },
+    "matrix": { "rows": 2, "cols": 3 },
+    "layouts": {
+        "keymap": [
+            [
+              {
+                "x": 0.25
+              },
+              "0,0\n\n\n\n\n\n\n\n\ne",
+              "0,1\n\n\n\n\n\n\n\n\ne",
+              {
+                "x": 0.5
+              },
+              "1,0\n\n\n\n\n\n\n\n\ne",
+              "1,1\n\n\n\n\n\n\n\n\ne"
+            ],
+            [
+              {
+                "x": 1
+              },
+              "0,0",
+              {
+                "x": 1
+              },
+              "0,2"
+            ],
+            [
+              {
+                "x": 1
+              },
+              "1,0",
+              "1,1",
+              "1,2"
+            ]
+          ]
+    }
+  }
