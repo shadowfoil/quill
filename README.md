@@ -1,6 +1,6 @@
 # Quill Macropad
 
-The "Quill" is a 3 key, 2 encoder macropad shield utilizing an RP2040-Zero MCU board as a controller.
+The "Quill" is a 3 key, 2 encoder hot-swappable macropad shield utilizing an RP2040-Zero MCU board as a controller.
 
 vial-qmk firmware is preconfigured and ready to compile.
 
